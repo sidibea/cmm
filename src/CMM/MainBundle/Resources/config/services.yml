@@ -1,0 +1,4 @@
+services:
+#    cmm_main.example:
+#        class: CMM\MainBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

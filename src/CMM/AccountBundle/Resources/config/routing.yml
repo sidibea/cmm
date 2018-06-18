@@ -1,0 +1,3 @@
+cmm_account_homepage:
+    path:     /
+    defaults: { _controller: CMMAccountBundle:Dashboard:index }

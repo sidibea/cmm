@@ -1,0 +1,3 @@
+cmm_main_homepage:
+    path:     /
+    defaults: { _controller: CMMMainBundle:Main:index }

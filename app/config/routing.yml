@@ -1,0 +1,14 @@
+cmm_account:
+    resource: "@CMMAccountBundle/Resources/config/routing.yml"
+    prefix:   /account
+
+cmm_user:
+    resource: "@CMMUserBundle/Resources/config/routing.yml"
+    prefix:   /user
+
+cmm_main:
+    resource: "@CMMMainBundle/Resources/config/routing.yml"
+    prefix:   /
+
+fos_user:
+    resource: "@FOSUserBundle/Resources/config/routing/all.xml"
